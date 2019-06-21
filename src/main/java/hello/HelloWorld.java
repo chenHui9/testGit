@@ -8,6 +8,8 @@ public class HelloWorld {
             j++;
             System.out.println(j);
         }
+        System.out.println("测试合并分支1");
+
 
 
     }
